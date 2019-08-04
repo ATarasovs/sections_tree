@@ -9,7 +9,7 @@ This is a simple project that includes following features:
 
 -   Catalog tree
 
--    
+ 
 
 Once the user is logged in to the system, he can create, update, view and delete
 sections. Each section may include multiple subsections, each subsection
@@ -40,7 +40,7 @@ Login details:
 
     -   Password: admin
 
-    -    
+ 
 
 The project was created using clean PHP and MySQL. No frameworks were used.
 

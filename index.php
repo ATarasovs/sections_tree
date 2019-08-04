@@ -58,9 +58,6 @@ if (isset($_GET["section_id"]) && $_GET["section_id"] != ""){
     }
 }
 
-
-
-
 render("home.php",
         array(
             'sections' => $sections,
