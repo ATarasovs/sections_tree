@@ -45,3 +45,15 @@ Login details:
  
 
 The project was created using clean PHP and MySQL. No frameworks were used.
+
+ 
+
+Following libraries were used for the project:
+
+-   Bootstrap
+
+-   jQuery
+
+-   Summernote
+
+-   Fontawesome
