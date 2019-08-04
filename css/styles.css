@@ -1,0 +1,15 @@
+body{
+    background: #005AA7;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #005AA7, #FFFDE4, #FFFDE4, #FFFDE4, #005AA7);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #005AA7, #FFFDE4, #FFFDE4, #FFFDE4, #005AA7) /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+a.disable {
+    pointer-events: none; /* Disables the button completely. Better than just cursor: default; */
+    @include opacity(0.7);
+}
+
+.jumbotron {
+    background-color: #e0e0e0;
+}
