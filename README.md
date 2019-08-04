@@ -9,13 +9,11 @@ This is a simple project that includes following features:
 
 -   Catalog tree
 
- 
+-    
 
 Once the user is logged in to the system, he can create, update, view and delete
 sections. Each section may include multiple subsections, each subsection
 multiple sub-sub sections and so on...
-
- 
 
 All sections and subsections can be edited and removed at all levels. Note: If
 the node section is remove, all subsections at all levels are removed as well.
@@ -38,15 +36,13 @@ Login details:
 
 -   User 3
 
--   Username: atarasov
+    -   Username: atarasov
 
--   Password: admin
+    -   Password: admin
 
- 
+    -    
 
 The project was created using clean PHP and MySQL. No frameworks were used.
-
- 
 
 Following libraries were used for the project:
 
