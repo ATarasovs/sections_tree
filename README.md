@@ -1,5 +1,5 @@
-Catalog Tree
-============
+Sections Tree
+=============
 
  
 
