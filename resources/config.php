@@ -6,11 +6,12 @@
  * Time: 16:51
  */
 
-/* DB details */
+/* DB details
+   NOTE! Change these details to run on your instance.*/
 define('username','root');
 define('password','');
 define('host','localhost');
-define('dbname','sok_test');
+define('dbname','sections_tree');
 
 $config = array(
     /*
